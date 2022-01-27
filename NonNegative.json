@@ -1,0 +1,6 @@
+{
+"$schema": "https://json-schema.org/draft/2020-12/schema",
+      "$id": "https://Markel.com/CPM/mixins/non-negative",
+      "description": "Not allowed to be negative",
+      "minimum": 0
+}
